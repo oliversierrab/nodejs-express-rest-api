@@ -4,6 +4,7 @@ No database, using simple array in memory
 ## Endpoints
 * List all courses : `GET /api/courses/`
 * Retrieve course by id : `GET /api/course/:id`
+* Delete course: `DELETE /api/course/:id`
 * Add course : `POST /api/courses`
 Body:
 {
